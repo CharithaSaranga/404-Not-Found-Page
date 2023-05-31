@@ -16,6 +16,6 @@ Feel free to experiment and make the page your own!
 
 This 404 Not Found page was created by [CharithaSaranga](https://github.com/CharithaSaranga) as a project for [devchallenges.io](https://devchallenges.io/).
 
-## License
+## Owner
 
 This project is owned by Charitha Saranga.
